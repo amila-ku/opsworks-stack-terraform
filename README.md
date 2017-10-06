@@ -3,9 +3,13 @@
 ## export AWS keys
 
 ## Run terraform
-```terraform plan
+```
+terraform plan
+
 ```
 
 ## Destroy Infrastructure
-```terraform destroy
+```
+terraform destroy
+
 ```
